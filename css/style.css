@@ -1535,6 +1535,7 @@ header .container nav ul .dropdown a:not(:last-child) {
 .footer .container .box.three .holder .info {
     color: #b9b9b9;
     line-height: 1.9;
+    flex: 1;
 }
 .footer .box.footer-gallery img {
     width: 78px;
